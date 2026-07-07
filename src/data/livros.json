@@ -1,0 +1,1348 @@
+[ {
+    "id": 1,
+    "titulo": "Dom Casmurro",
+    "autor": "Machado de Assis",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1899,
+    "nota": 4.8,
+    "paginas": 256,
+    "capa": "./imagens/dom-casmurro.jpg",
+    "status": "Lido",
+    "descricao":  "Romance classico para discutir narrador, memoria, ambiguidade e interpretacao critica.",
+    "tags": [
+      "clássico", 
+      "romance", 
+      "psicológico"
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Iracema",
+    "autor": "José de Alencar",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1865,
+    "nota": 4.3,
+    "capa": "./imagens/iracema.jpg",
+    "status": "Lendo",
+    "descricao": "é um romance indianista da primeira fase do Romantismo brasileiro",
+    "tags": [
+      "clássico", 
+      "indianismo", 
+      "romance"
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "O Cortiço",
+    "autor": "Aluísio Azevedo",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1890,
+    "nota": 4.6,
+    "capa": "./imagens/o-cortico.jpg",
+    "status": "Lido",
+    "descricao": "A história critica a sociedade urbana do século XIX ao retratar uma habitação coletiva no Rio de Janeiro, onde o próprio ambiente, os instintos animais e o determinismo social moldam o comportamento trágico dos moradores.",
+    "tags": [
+      "clássico", 
+      "realismo", 
+      "urbano"
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "Senhora",
+    "autor": "José de Alencar",
+    "categoria": "Romance",
+    "nivel": "avançado",
+    "ano": 1875,
+    "nota": 4.1,
+    "capa": "./imagens/senhora.jpg",
+    "status": "quero ler",
+    "descricao": "é um romance urbano que critica a hipocrisia da elite e o casamento por interesse no Rio de Janeiro do século XIX. " ,
+    "tags": [
+      "clássico", 
+      "romance", 
+      "séc XIX"
+    ]
+  },
+  {
+    "id": 5,
+    "titulo": "Dois Irmãos",
+    "autor": "Milton Hatoum",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1950,
+    "nota": 4.5,
+    "paginas": 360,
+    "capa": "./imagens/dois-irmãos.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 6,
+    "titulo": "Relato de um Certo Oriente",
+    "autor": "Milton Hatoum",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1951,
+    "nota": 4.6,
+    "paginas": 392,
+    "capa": "./imagens/relato-de-um-certo-oriente.jpg",
+    "status": "Quero ler",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 7,
+    "titulo": "Cinzas do Norte",
+    "autor": "Milton Hatoum",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1952,
+    "nota": 4.7,
+    "paginas": 424,
+    "capa": "./imagens/cinzas-do-norte.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 8,
+    "titulo": "Órfãos do Eldorado",
+    "autor": "Milton Hatoum",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1953,
+    "nota": 4.8,
+    "paginas": 200,
+    "capa": "./imagens/órfãos-do-eldorado.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 9,
+    "titulo": "Nove Noites",
+    "autor": "Bernardo Carvalho",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1954,
+    "nota": 4.9,
+    "paginas": 232,
+    "capa": "./imagens/nove-noites.jpg",
+    "status": "Quero ler",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 10,
+    "titulo": "Barba Ensopada de Sangue",
+    "autor": "Daniel Galera",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1955,
+    "nota": 4.0,
+    "paginas": 264,
+    "capa": "./imagens/barba-ensopada-de-sangue.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 11,
+    "titulo": "Torto Arado",
+    "autor": "Itamar Vieira Junior",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1956,
+    "nota": 4.1,
+    "paginas": 296,
+    "capa": "./imagens/torto-arado.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 12,
+    "titulo": "Quarto de Despejo",
+    "autor": "Carolina Maria de Jesus",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1957,
+    "nota": 4.2,
+    "paginas": 328,
+    "capa": "./imagens/quarto-de-despejo.jpg",
+    "status": "Quero ler",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 13,
+    "titulo": "Ponciá Vicêncio",
+    "autor": "Conceição Evaristo",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1958,
+    "nota": 4.3,
+    "paginas": 360,
+    "capa": "./imagens/ponciá-vicêncio.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 14,
+    "titulo": "Um Defeito de Cor",
+    "autor": "Ana Maria Gonçalves",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1959,
+    "nota": 4.4,
+    "paginas": 392,
+    "capa": "./imagens/um-defeito-de-cor.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 15,
+    "titulo": "Lavoura Arcaica",
+    "autor": "Raduan Nassar",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1960,
+    "nota": 4.5,
+    "paginas": 424,
+    "capa": "./imagens/lavoura-arcaica.jpg",
+    "status": "Quero ler",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 16,
+    "titulo": "Eles Eram Muitos Cavalos",
+    "autor": "Luiz Ruffato",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1961,
+    "nota": 4.6,
+    "paginas": 200,
+    "capa": "./imagens/eles-eram-muitos-cavalos.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 17,
+    "titulo": "Estorvo",
+    "autor": "Chico Buarque",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1962,
+    "nota": 4.7,
+    "paginas": 232,
+    "capa": "./imagens/estorvo.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 18,
+    "titulo": "Budapeste",
+    "autor": "Chico Buarque",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1963,
+    "nota": 4.8,
+    "paginas": 264,
+    "capa": "./imagens/budapeste.jpg",
+    "status": "Quero ler",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 19,
+    "titulo": "Leite Derramado",
+    "autor": "Chico Buarque",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1964,
+    "nota": 4.9,
+    "paginas": 296,
+    "capa": "./imagens/leite-derramado.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 20,
+    "titulo": "O Filho Eterno",
+    "autor": "Cristovão Tezza",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1965,
+    "nota": 4.0,
+    "paginas": 328,
+    "capa": "./imagens/o-filho-eterno.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 21,
+    "titulo": "As Meninas",
+    "autor": "Lygia Fagundes Telles",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1966,
+    "nota": 4.1,
+    "paginas": 360,
+    "capa": "./imagens/as-meninas.jpg",
+    "status": "Quero ler",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 22,
+    "titulo": "Ciranda de Pedra",
+    "autor": "Lygia Fagundes Telles",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1967,
+    "nota": 4.2,
+    "paginas": 392,
+    "capa": "./imagens/ciranda-de-pedra.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 23,
+    "titulo": "Feliz Ano Novo",
+    "autor": "Rubem Fonseca",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1968,
+    "nota": 4.3,
+    "paginas": 424,
+    "capa": "./imagens/feliz-ano-novo.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 24,
+    "titulo": "O Cobrador",
+    "autor": "Rubem Fonseca",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1969,
+    "nota": 4.4,
+    "paginas": 200,
+    "capa": "./imagens/o-cobrador.jpg",
+    "status": "Quero ler",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 25,
+    "titulo": "Laços de Família",
+    "autor": "Clarice Lispector",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1970,
+    "nota": 4.5,
+    "paginas": 232,
+    "capa": "./imagens/laços-de-família.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 26,
+    "titulo": "Perto do Coração Selvagem",
+    "autor": "Clarice Lispector",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1971,
+    "nota": 4.6,
+    "paginas": 264,
+    "capa": "./imagens/perto-do-coração-selvagem.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 27,
+    "titulo": "Água Viva",
+    "autor": "Clarice Lispector",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1972,
+    "nota": 4.7,
+    "paginas": 296,
+    "capa": "./imagens/água-viva.jpg",
+    "status": "Quero ler",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 28,
+    "titulo": "A Paixão Segundo G.H.",
+    "autor": "Clarice Lispector",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1973,
+    "nota": 4.8,
+    "paginas": 328,
+    "capa": "./imagens/a-paixão-segundo-g.h..jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 29,
+    "titulo": "O Alienista",
+    "autor": "Machado de Assis",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1974,
+    "nota": 4.9,
+    "paginas": 360,
+    "capa": "./imagens/o-alienista.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 30,
+    "titulo": "Esaú e Jacó",
+    "autor": "Machado de Assis",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1975,
+    "nota": 4.0,
+    "paginas": 392,
+    "capa": "./imagens/esaú-e-jacó.jpg",
+    "status": "Quero ler",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 31,
+    "titulo": "Ressurreição",
+    "autor": "Machado de Assis",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1976,
+    "nota": 4.1,
+    "paginas": 424,
+    "capa": "./imagens/ressurreição.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 32,
+    "titulo": "Iaiá Garcia",
+    "autor": "Machado de Assis",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1977,
+    "nota": 4.2,
+    "paginas": 200,
+    "capa": "./imagens/iaiá-garcia.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 33,
+    "titulo": "Memórias de um Sargento de Milícias",
+    "autor": "Manuel Antônio de Almeida",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1978,
+    "nota": 4.3,
+    "paginas": 232,
+    "capa": "./imagens/memórias-de-um-sargento-de-milícias.jpg",
+    "status": "Quero ler",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 34,
+    "titulo": "O Seminarista",
+    "autor": "Bernardo Guimarães",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1979,
+    "nota": 4.4,
+    "paginas": 264,
+    "capa": "./imagens/o-seminarista.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 35,
+    "titulo": "Navio Negreiro",
+    "autor": "Castro Alves",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1980,
+    "nota": 4.5,
+    "paginas": 296,
+    "capa": "./imagens/navio-negreiro.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 36,
+    "titulo": "Claro Enigma",
+    "autor": "Carlos Drummond de Andrade",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1981,
+    "nota": 4.6,
+    "paginas": 328,
+    "capa": "./imagens/claro-enigma.jpg",
+    "status": "Quero ler",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 37,
+    "titulo": "Romanceiro da Inconfidência",
+    "autor": "Cecília Meireles",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1982,
+    "nota": 4.7,
+    "paginas": 360,
+    "capa": "./imagens/romanceiro-da-inconfidência.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 38,
+    "titulo": "Morte e Vida Severina",
+    "autor": "João Cabral de Melo Neto",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1983,
+    "nota": 4.8,
+    "paginas": 392,
+    "capa": "./imagens/morte-e-vida-severina.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 39,
+    "titulo": "Auto da Compadecida",
+    "autor": "Ariano Suassuna",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1984,
+    "nota": 4.9,
+    "paginas": 424,
+    "capa": "./imagens/auto-da-compadecida.jpg",
+    "status": "Quero ler",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 40,
+    "titulo": "A Pedra do Reino",
+    "autor": "Ariano Suassuna",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1985,
+    "nota": 4.0,
+    "paginas": 200,
+    "capa": "./imagens/a-pedra-do-reino.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 41,
+    "titulo": "Mar Morto",
+    "autor": "Jorge Amado",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1986,
+    "nota": 4.1,
+    "paginas": 232,
+    "capa": "./imagens/mar-morto.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 42,
+    "titulo": "Gabriela, Cravo e Canela",
+    "autor": "Jorge Amado",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1987,
+    "nota": 4.2,
+    "paginas": 264,
+    "capa": "./imagens/gabriela,-cravo-e-canela.jpg",
+    "status": "Quero ler",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 43,
+    "titulo": "Dona Flor e Seus Dois Maridos",
+    "autor": "Jorge Amado",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1988,
+    "nota": 4.3,
+    "paginas": 296,
+    "capa": "./imagens/dona-flor-e-seus-dois-maridos.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 44,
+    "titulo": "Terras do Sem Fim",
+    "autor": "Jorge Amado",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1989,
+    "nota": 4.4,
+    "paginas": 328,
+    "capa": "./imagens/terras-do-sem-fim.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 45,
+    "titulo": "Jubiabá",
+    "autor": "Jorge Amado",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1990,
+    "nota": 4.5,
+    "paginas": 360,
+    "capa": "./imagens/jubiabá.jpg",
+    "status": "Quero ler",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 46,
+    "titulo": "Farda Fardão Camisola de Dormir",
+    "autor": "Jorge Amado",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1991,
+    "nota": 4.6,
+    "paginas": 392,
+    "capa": "./imagens/farda-fardão-camisola-de-dormir.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 47,
+    "titulo": "O Tempo e o Vento",
+    "autor": "Erico Verissimo",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1992,
+    "nota": 4.7,
+    "paginas": 424,
+    "capa": "./imagens/o-tempo-e-o-vento.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 48,
+    "titulo": "Incidente em Antares",
+    "autor": "Erico Verissimo",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1993,
+    "nota": 4.8,
+    "paginas": 200,
+    "capa": "./imagens/incidente-em-antares.jpg",
+    "status": "Quero ler",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 49,
+    "titulo": "As Parceiras",
+    "autor": "Lya Luft",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1994,
+    "nota": 4.9,
+    "paginas": 232,
+    "capa": "./imagens/as-parceiras.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 50,
+    "titulo": "Hotel Atlântico",
+    "autor": "João Gilberto Noll",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1995,
+    "nota": 4.0,
+    "paginas": 264,
+    "capa": "./imagens/hotel-atlântico.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 51,
+    "titulo": "A Resistência",
+    "autor": "Julián Fuks",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1996,
+    "nota": 4.1,
+    "paginas": 296,
+    "capa": "./imagens/a-resistência.jpg",
+    "status": "Quero ler",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 52,
+    "titulo": "Niketche",
+    "autor": "Paulina Chiziane",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1997,
+    "nota": 4.2,
+    "paginas": 328,
+    "capa": "./imagens/niketche.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 53,
+    "titulo": "Capão Pecado",
+    "autor": "Ferréz",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1998,
+    "nota": 4.3,
+    "paginas": 360,
+    "capa": "./imagens/capão-pecado.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 54,
+    "titulo": "Cidade de Deus",
+    "autor": "Paulo Lins",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 1999,
+    "nota": 4.4,
+    "paginas": 392,
+    "capa": "./imagens/cidade-de-deus.jpg",
+    "status": "Quero ler",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "clássico"
+    ]
+  },
+  {
+    "id": 55,
+    "titulo": "Manual Prático do Ódio",
+    "autor": "Ferréz",
+    "categoria": "Literatura Brasileira",
+    "nivel": "Intermediario",
+    "ano": 2000,
+    "nota": 4.5,
+    "paginas": 424,
+    "capa": "./imagens/manual-prático-do-ódio.jpg",
+    "status": "Lido",
+    "descricao": "Obra marcante da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "literatura",
+      "contemporâneo"
+    ]
+  },
+  {
+    "id": 56,
+    "titulo": "Vidas Secas",
+    "autor": "Graciliano Ramos",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1938,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/vidas-secas.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 57,
+    "titulo": "Capitães da Areia",
+    "autor": "Jorge Amado",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1937,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/capitães-da-areia.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 58,
+    "titulo": "Memórias Póstumas de Brás Cubas",
+    "autor": "Machado de Assis",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1881,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/memórias-póstumas-de-brás-cubas.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 59,
+    "titulo": "A Hora da Estrela",
+    "autor": "Clarice Lispector",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1977,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/a-hora-da-estrela.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 60,
+    "titulo": "São Bernardo",
+    "autor": "Graciliano Ramos",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1934,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/são-bernardo.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 61,
+    "titulo": "Macunaíma",
+    "autor": "Mário de Andrade",
+    "categoria": "Modernismo",
+    "nivel": "Intermediario",
+    "ano": 1928,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/macunaíma.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 62,
+    "titulo": "O Quinze",
+    "autor": "Rachel de Queiroz",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1930,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/o-quinze.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 63,
+    "titulo": "Grande Sertão: Veredas",
+    "autor": "João Guimarães Rosa",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1956,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/grande-sertão:-veredas.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 64,
+    "titulo": "Sagarana",
+    "autor": "João Guimarães Rosa",
+    "categoria": "Contos",
+    "nivel": "Intermediario",
+    "ano": 1946,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/sagarana.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 65,
+    "titulo": "Memorial de Aires",
+    "autor": "Machado de Assis",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1908,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/memorial-de-aires.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 66,
+    "titulo": "Helena",
+    "autor": "Machado de Assis",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1876,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/helena.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 67,
+    "titulo": "A Moreninha",
+    "autor": "Joaquim Manuel de Macedo",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1844,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/a-moreninha.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 68,
+    "titulo": "Lucíola",
+    "autor": "José de Alencar",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1862,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/lucíola.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 69,
+    "titulo": "Til",
+    "autor": "José de Alencar",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1872,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/til.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 70,
+    "titulo": "O Guarani",
+    "autor": "José de Alencar",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1857,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/o-guarani.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 71,
+    "titulo": "Triste Fim de Policarpo Quaresma",
+    "autor": "Lima Barreto",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1915,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/triste-fim-de-policarpo-quaresma.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 72,
+    "titulo": "Clara dos Anjos",
+    "autor": "Lima Barreto",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1922,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/clara-dos-anjos.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 73,
+    "titulo": "Casa de Pensão",
+    "autor": "Aluísio Azevedo",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1884,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/casa-de-pensão.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 74,
+    "titulo": "O Ateneu",
+    "autor": "Raul Pompeia",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1888,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/o-ateneu.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  },
+  {
+    "id": 75,
+    "titulo": "Inocência",
+    "autor": "Visconde de Taunay",
+    "categoria": "Romance",
+    "nivel": "Intermediario",
+    "ano": 1872,
+    "nota": 4.5,
+    "paginas": 256,
+    "capa": "./imagens/inocência.jpg",
+    "status": "Lido",
+    "descricao": "Clássico da literatura brasileira.",
+    "tags": [
+      "brasileiro",
+      "clássico",
+      "romance"
+    ]
+  }
+]
